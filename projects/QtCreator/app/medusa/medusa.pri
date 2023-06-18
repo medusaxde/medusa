@@ -16,9 +16,9 @@
 #   File: medusa.pri
 #
 # Author: $author$
-#   Date: 3/4/2023
+#   Date: 6/17/2023
 #
-# generic QtCreator project file for texta framework medusa executable medusa
+# generic QtCreator project file for framework medusa executable medusa
 ########################################################################
 
 ########################################################################

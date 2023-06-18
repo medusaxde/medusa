@@ -18,7 +18,7 @@
 # Author: $author$
 #   Date: 3/4/2023
 #
-# generic QtCreator project file for texta framework medusa static library libmedusa
+# generic QtCreator project file for framework medusa static library libmedusa
 ########################################################################
 
 ########################################################################

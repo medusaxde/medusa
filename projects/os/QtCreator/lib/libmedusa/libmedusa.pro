@@ -18,7 +18,7 @@
 # Author: $author$
 #   Date: 3/4/2023
 #
-# os specific QtCreator project .pro file for texta framework medusa static library libmedusa
+# os specific QtCreator project .pro file for framework medusa static library libmedusa
 ########################################################################
 # Depends: nadir;rostra;coral
 #

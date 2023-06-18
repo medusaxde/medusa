@@ -18,7 +18,7 @@
 # Author: $author$
 #   Date: 3/4/2023
 #
-# generic QtCreator project .pri file for texta framework medusa
+# generic QtCreator project .pri file for framework medusa
 ########################################################################
 # Depends: nadir;rostra;coral
 

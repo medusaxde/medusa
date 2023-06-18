@@ -16,9 +16,9 @@
 #   File: medusa.pro
 #
 # Author: $author$
-#   Date: 3/4/2023
+#   Date: 6/17/2023
 #
-# os specific QtCreator project .pro file for texta framework medusa executable medusa
+# os specific QtCreator project .pro file for framework medusa executable medusa
 ########################################################################
 # Depends: nadir;rostra;coral
 #
@@ -40,7 +40,7 @@ INCLUDEPATH += \
 $${medusa_exe_INCLUDEPATH} \
 
 # DEFINES
-# 
+#
 DEFINES += \
 $${medusa_exe_DEFINES} \
 
